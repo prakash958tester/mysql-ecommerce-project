@@ -86,3 +86,9 @@ This project showcases my hands-on experience with relational database design an
 ---
 
 ## 📁 Project Structure
+
+mysql-ecommerce-project/
+│
+├── ecommerce_schema.sql # All CREATE TABLE statements
+├── ecommerce_sample_data.sql # INSERT sample records
+├── ecommerce_queries.sql # All analytical queries and procedures
